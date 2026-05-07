@@ -7,7 +7,7 @@
 📫 Connect with me on LinkedIn
 ## Skills
 - Java
-- Python
+- DSA
 - SQL
 -Spring Boot
 ## Goals for 2026
